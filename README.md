@@ -1,2 +1,2 @@
 # myProject
-<h1>this is a project to study github</h1>
+<h4>this is a project to study github</h4>
